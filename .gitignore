@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyTorch or model weights
+*.pth
+
+# Optional: ignore entire model folder if not needed
+model/
